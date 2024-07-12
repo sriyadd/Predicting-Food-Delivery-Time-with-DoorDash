@@ -2,7 +2,7 @@
 <div style="text-align:center;">
   <h1>Delivering Delight: Insights and Analytics for Food Delivery Operations</h1>
   <h2>A Comprehensive Dashboard for Tracking Orders, Drivers, and Customer Satisfaction in Real-Time</h2>
-  <h5>By <a href="https://www.linkedin.com/in/chiraglakhanpal/">Chirag Lakhanpal</a></h5>
+  
 </div> 
 <br>
 <br>
